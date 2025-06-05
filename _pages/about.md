@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href=https://www.sustech.edu.cn/en/>Southern University of Science and Technology</a>, <a href=https://eee.sustech.edu.cn//>Robotics Institute</a>, Master of Electronic Science and Technology.
 
 profile:
   align: right
