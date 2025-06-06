@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Email: liuly2023@mail.sustech.edu.cn"
+# subtitle: "Email: liuly2023@mail.sustech.edu.cn"
 
 profile:
   align: right
@@ -24,6 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+**Email:** liuly2023@mail.sustech.edu.cn
 
 I am a second year master student in the the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology</a>.
 
