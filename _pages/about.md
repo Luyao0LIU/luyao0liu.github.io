@@ -27,7 +27,7 @@ latest_posts:
 
 **Email:** liuly2023@mail.sustech.edu.cn
 
-I am a second year master student in the the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology</a>.
+I am a second year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology</a>.
 
 My work focuses on **designing algorithms to help robots handle environmental disturbances and model uncertainty**. I aim to enpower robotic systems to dynamically adapt environment changes in real-time and learn continuously in real-world scenarios, utilizing methodologies from both the learning and control communities.
 
