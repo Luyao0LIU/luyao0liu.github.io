@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-29
+date: 2023-09-01
 inline: true
 related_posts: false
 ---
 
-Our work "Dynamic Perception-Enhanced Motion Planning and Control for UAVs Flights in Challenging Dynamic Environments" is accpeted by ICRA 2025.
+I join in <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Computer Vision Lab (RCV Lab)</a> as a graduate researcher.
