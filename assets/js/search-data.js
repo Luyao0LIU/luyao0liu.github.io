@@ -377,12 +377,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-join-in-robotics-and-computer-vision-lab-rcv-lab-as-a-graduate-researcher",
+          title: 'I join in Robotics and Computer Vision Lab (RCV Lab) as a graduate...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-work-dynamic-perception-enhanced-motion-planning-and-control-for-uavs-flights-in-challenging-dynamic-environments-is-accpeted-by-icra-2025",
+          section: "News",},{id: "news-our-work-dynamic-perception-enhanced-motion-planning-and-control-for-uavs-flights-in-challenging-dynamic-environments-is-accpeted-by-icra-2025",
           title: 'Our work “Dynamic Perception-Enhanced Motion Planning and Control for UAVs Flights in Challenging...',
           description: "",
           section: "News",},{id: "news-my-personal-homepage-is-released-sparkles-smile",
