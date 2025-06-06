@@ -20,7 +20,7 @@ group :jekyll_plugins do
     gem 'jekyll-jupyter-notebook'
     gem "jekyll-regex-replace"
     gem "jekyll-tabs"
-    # gem "jekyll-terser"
+    gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
     gem "jekyll-toc"
 end
 group :other_plugins do
