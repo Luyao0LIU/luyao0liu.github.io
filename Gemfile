@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'jekyll-get-json'
     gem 'jekyll-jupyter-notebook'
+    gem "jekyll-regex-replace"
 end
 group :other_plugins do
     gem 'httparty'
