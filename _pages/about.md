@@ -6,7 +6,7 @@ subtitle: <a href=https://www.sustech.edu.cn/en/>Southern University of Science 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>You cannot improve your past, but you can improve your future.</p>
