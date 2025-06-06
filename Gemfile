@@ -24,6 +24,7 @@ group :jekyll_plugins do
     gem "jekyll-toc"
 end
 group :other_plugins do
+    gem "css_parser"
     gem 'httparty'
     gem 'feedjira'
 end
