@@ -267,7 +267,7 @@ scholar:
   last_name: [Liu]
   first_name: [Luyao]
 
-  highlight_author: "Luyao Liu"
+  highlight_author: ["Luyao Liu", "Luyao", "Liu"]
 
   style: apa
   locale: en
