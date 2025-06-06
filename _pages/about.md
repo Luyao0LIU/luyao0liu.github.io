@@ -37,6 +37,9 @@ My work focuses on **designing algorithms to help robots handle environmental di
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-### News
 
-- 2024-03-11: [Aerial Interaction with Tactile Sensing](https://sites.google.com/view/aerial-system-gelsight) accepted by ICRA
+
+
+<!-- ### News
+
+- 2024-03-11: [Aerial Interaction with Tactile Sensing](https://sites.google.com/view/aerial-system-gelsight) accepted by ICRA -->
