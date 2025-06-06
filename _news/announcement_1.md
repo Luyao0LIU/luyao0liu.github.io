@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work **Dynamic Perception-Enhanced Motion Planning and Control for UAVs Flights in Challenging Dynamic Environments** is accpeted by ICRA 2025.
+Our work "Dynamic Perception-Enhanced Motion Planning and Control for UAVs Flights in Challenging Dynamic Environments" is accpeted by ICRA 2025.
