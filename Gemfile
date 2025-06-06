@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'jekyll-get-json'
     gem 'jekyll-jupyter-notebook'
     gem "jekyll-regex-replace"
+    gem "jekyll-tabs"
 end
 group :other_plugins do
     gem 'httparty'
