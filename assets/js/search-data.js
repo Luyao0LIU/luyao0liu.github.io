@@ -382,11 +382,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-work-dynamic-perception-enhanced-motion-planning-and-control-for-uavs-flights-in-challenging-dynamic-environments-is-accpeted-by-icra-2025",
+          title: 'Our work “Dynamic Perception-Enhanced Motion Planning and Control for UAVs Flights in Challenging...',
           description: "",
-          section: "News",},{id: "news-our-work-dynamic-perception-enhanced-motion-planning-and-control-for-uavs-flights-in-challenging-dynamic-environments-is-accpeted-by-icra-2025",
-          title: 'Our work Dynamic Perception-Enhanced Motion Planning and Control for UAVs Flights in Challenging...',
+          section: "News",},{id: "news-my-personal-homepage-is-released-sparkles-smile",
+          title: 'My personal homepage is released! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
