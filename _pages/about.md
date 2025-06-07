@@ -25,7 +25,6 @@ I am a second year master student in the <a href="https://eee.sustech.edu.cn/">D
 
 My work focuses on **designing algorithms to help robots handle environmental disturbances and model uncertainty**. I aim to enpower robotic systems to dynamically adapt environment changes in real-time and learn continuously in real-world scenarios, utilizing methodologies from both the learning and control communities.
 
-
 <!-- Feel free to contact me if you are interested in my works and want to collaborate with me! -->
 <!-- Additionally, I was lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about). -->
 
