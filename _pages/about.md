@@ -6,9 +6,10 @@ permalink: /
 
 profile:
   align: right
-  image: kexin.jpg
+  image: self.jpeg
   image_circular: false # crops the image to make it circular
-  address:
+  more_info: >
+    <p>You cannot improve your past, but you can improve your future.</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,13 +19,12 @@ personal: true
 projects: true
 ---
 
-**Email**: kexins@andrew.cmu.edu
+**Email:** liuly2023@mail.sustech.edu.cn
 
-I am a visiting scholar at [CMU RI](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a graduate researcher at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) advised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). I am broadly interested in robot learning, especially in RL , generative algorithms and foundation models, with validations across different platforms: quadrotor, quadruped, humanoid, manipulator, etc.
+I am a second year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology</a>.
 
-During my master, I also spent some time at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Macro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Advanced Interactive Technologies lab (AIT)](https://ait.ethz.ch/) led by [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). Prior to master, I obtained bachelor's degree in Computer Science at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+My work focuses on **designing algorithms to help robots handle environmental disturbances and model uncertainty**. I aim to enpower robotic systems to dynamically adapt environment changes in real-time and learn continuously in real-world scenarios, utilizing methodologies from both the learning and control communities.
 
-I have spent many colorful summers in different places. In 2022, I attended [ETHz Robotics Summer School](https://rsl.ethz.ch/scientific-events/summer-schools/robotics-sumemr-school-2022.html). In 2019, I participated in [NUS SOC Summer WorkShop](https://sws.comp.nus.edu.sg/2019/index.htm). In 2018, I was an exchanged summer student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 <!-- Feel free to contact me if you are interested in my works and want to collaborate with me! -->
 <!-- Additionally, I was lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about). -->

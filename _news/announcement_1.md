@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2021-9-10
+date: 2023-09-01
 inline: true
+related_posts: false
 ---
 
-I join in <a href="https://rpg.ifi.uzh.ch/">Robotics and Perception Group (RPG)</a> as a graduate researcher.
+I join in <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Computer Vision Lab (RCV Lab)</a> as a graduate researcher.
