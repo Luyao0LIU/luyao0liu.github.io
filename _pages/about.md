@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: "Email: liuly2023@mail.sustech.edu.cn"
 
