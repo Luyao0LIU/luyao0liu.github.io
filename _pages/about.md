@@ -21,7 +21,7 @@ projects: true
 
 **Email:** liuly2023@mail.sustech.edu.cn
 
-**This website is under development. Some of the information on it is not relevant to me. Please do not believe it!**
+**This website is under development. Some of the information on it is not relevant to me. Please do not believe it! Sorry!**
 
 I am a second year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology</a>.
 
