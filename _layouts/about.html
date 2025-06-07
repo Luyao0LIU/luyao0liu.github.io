@@ -58,11 +58,9 @@ layout: default
     {%- include papers.html %} {%- endif %}
     <br />
 
+    <!-- Selected papers -->
     {% if page.projects -%}
-    <p>
-      <!-- Selected papers -->
-      {%- include myprojects.html %}
-    </p>
+    <p>{%- include myprojects.html %}</p>
 
     {%- endif %}
     <br />
