@@ -71,5 +71,15 @@ layout: default
       {%- include personal.html %}
     </p>
     {%- endif %} -->
+
+    <!-- Acadamic Service -->
+    {% if page.acadamicservice -%}
+    <p>{%- include acadamicservice.html %}</p>
+    {%- endif %}
+
+    <!-- Honors -->
+    {% if page.honors -%}
+    <p>{%- include honors.html %}</p>
+    {%- endif %}
   </article>
 </div>

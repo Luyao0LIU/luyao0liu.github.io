@@ -17,6 +17,8 @@ social: true # includes social icons at the bottom of the page
 papers: true
 personal: true
 projects: true
+acadamicservice: true
+honors: true
 ---
 
 **Email:** liuly2023@mail.sustech.edu.cn
