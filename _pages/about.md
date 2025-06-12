@@ -23,12 +23,11 @@ honors: true
 
 **Email:** liuly2023@mail.sustech.edu.cn
 
+I am a second year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology (SUSTech)</a>. Now, I am a graduate researcher at <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Perception Group (RCVLab)</a>, which is advised by <a href="https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en">Prof. Hong Zhang</a> (<em>IEEE Fellow</em>).
 
-I am a second year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology (SUSTech)</a>. Now, I am a graduate researcher at <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Perception Group (RCVLab)</a>, which is advised by <a href="https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en">Prof. Hong Zhang</a> (<em>IEEE Fellow</em>). 
 <!-- Previously, I earned my Bachelor’s degree in Computer Science and Technology from Zhengzhou University. -->
 
-
-My research interests focus on **navigation, motion planning and control, learning based control, reinforcement learning, LLM applied in navigation**. 
+My research interests focus on **navigation, motion planning and control, learning based control, reinforcement learning, LLM applied in navigation**.
 I aim to develop intelligent and agile robots that can be applied in people's daily lives.
 
 <!-- Feel free to contact me if you are interested in my works and want to collaborate with me! -->
