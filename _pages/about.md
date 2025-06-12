@@ -24,7 +24,7 @@ honors: true
 **Email:** liuly2023@mail.sustech.edu.cn
 
 
-I am a second year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology</a>.
+I am a second year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology</a>. Now, I am a graduate researcher at <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Perception Group (RCV Lab)</a> advised by <a href="https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en">Prof. Hong Zhang</a> (<em>IEEE Fellow</em>). 
 
 My research interests focus on **designing algorithms to help robots handle environmental disturbances and model uncertainty**. I aim to enpower robotic systems to dynamically adapt environment changes in real-time and learn continuously in real-world scenarios, utilizing methodologies from both the learning and control communities.
 
