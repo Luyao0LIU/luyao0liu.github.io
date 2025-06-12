@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I join in <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Computer Vision Lab (RCV Lab)</a> as a graduate researcher.
+I join in <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Computer Vision Lab (RCVLab)</a> as a graduate researcher.
