@@ -28,7 +28,8 @@ I am a second year master student in the <a href="https://eee.sustech.edu.cn/">D
 <!-- Previously, I earned my Bachelor’s degree in Computer Science and Technology from Zhengzhou University. -->
 
 
-My research interests focus on **navigation, motion planning and control, learning based control, reinforcement learning, LLM applied in navigation**. I aim to enpower robotic systems to dynamically adapt environment changes in real-time and learn continuously in real-world scenarios, utilizing methodologies from both the learning and control communities.
+My research interests focus on **navigation, motion planning and control, learning based control, reinforcement learning, LLM applied in navigation**. 
+I aim to develop intelligent and agile robots that can be applied in people's daily lives.
 
 <!-- Feel free to contact me if you are interested in my works and want to collaborate with me! -->
 <!-- Additionally, I was lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about). -->
