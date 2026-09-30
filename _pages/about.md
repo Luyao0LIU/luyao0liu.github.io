@@ -23,11 +23,11 @@ honors: true
 
 **Email:** liuly2023@mail.sustech.edu.cn
 
-I am a final year master student in the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology (SUSTech)</a>. Meanwhile, I am also a graduate researcher at <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Perception Group (RCVLab)</a>, which is advised by <a href="https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en">Prof. Hong Zhang</a> (<em>IEEE Fellow, Fellow of the Canadian Academy of Engineering</em>).
+Previously, I received my Master's degree from the <a href="https://eee.sustech.edu.cn/">Department of Electronic and Electrical Engineering</a> at <a href="https://www.sustech.edu.cn/en">Southern University of Science and Technology (SUSTech)</a>, under the supervision of <a href="https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en">Prof. Hong Zhang</a> (<em>IEEE Life Fellow and Fellow of the Canadian Academy of Engineering</em>). During this period, I was also a graduate researcher with the <a href="https://rcvlab.eee.sustech.edu.cn/">Robotics and Perception Group (RCVLab)</a>.
 
 <!-- Previously, I earned my Bachelor’s degree in Computer Science and Technology from Zhengzhou University. -->
 
-My research interests focus on **navigation, motion planning and control, learning based control, reinforcement learning, LLM applied in navigation**.
+My research interests focus on **Navigation, Motion Planning and Control, Humanoid Locomotion, Loco-Manipulation, Reinforcement Learning, LLM applied in navigation**.
 I aim to develop intelligent and agile robots that can be applied in people's daily lives.
 
 <!-- Feel free to contact me if you are interested in my works and want to collaborate with me! -->
