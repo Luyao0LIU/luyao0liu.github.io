@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-06
+date: 2026-09-24
 inline: true
 related_posts: false
 ---
 
-My <a href="https://luyao0liu.github.io/">personal homepage</a> is released! :sparkles: :smile:
+Our work "SwiftFlow: An Efficient One-Step Policy Learning via Improved Mean Flow for Robotic Manipulation" is accpeted by **NeurIPS 2026**.
