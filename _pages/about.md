@@ -27,7 +27,7 @@ Previously, I received my Master's degree from the <a href="https://eee.sustech.
 
 <!-- Previously, I earned my Bachelor’s degree in Computer Science and Technology from Zhengzhou University. -->
 
-My research interests focus on **Navigation, Motion Planning and Control, Humanoid Locomotion, Loco-Manipulation, Reinforcement Learning, LLM applied in navigation**.
+My research interests focus on **Navigation, Whole Body Control, Humanoid Locomotion, Loco-Manipulation, Reinforcement Learning, LLM applied in navigation**.
 I aim to develop intelligent and agile robots that can be applied in people's daily lives.
 
 <!-- Feel free to contact me if you are interested in my works and want to collaborate with me! -->
